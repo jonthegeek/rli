@@ -16,6 +16,10 @@ knitr::opts_chunk$set(
 # rli
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/rli)](https://CRAN.R-project.org/package=rli)
+[![Codecov test coverage](https://codecov.io/gh/jonthegeek/rli/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jonthegeek/rli?branch=main)
+[![R-CMD-check](https://github.com/jonthegeek/rli/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jonthegeek/rli/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 A consistent interface to the LinkedIn API.
